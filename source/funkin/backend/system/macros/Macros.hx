@@ -15,7 +15,7 @@ class Macros {
 			"flixel.system", "flixel.sound", "flixel.path", "flixel.math", "flixel.input",
 			"flixel.group", "flixel.graphics", "flixel.effects", "flixel.animation",
 			// FLIXEL ADDONS
-			"flixel.addons.api", "flixel.addons.display", "flixel.addons.effects", "flixel.addons.ui",
+			"flixel.addons.api", "flixel.addons.display", "flixel.addons.editors.tiled", "flixel.addons.effects", "flixel.addons.ui",
 			"flixel.addons.plugin", "flixel.addons.text", "flixel.addons.tile", "flixel.addons.transition",
 			"flixel.addons.util",
 			// OTHER LIBRARIES & STUFF
